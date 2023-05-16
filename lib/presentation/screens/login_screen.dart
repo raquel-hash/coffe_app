@@ -185,7 +185,7 @@ class LoginScreen extends StatelessWidget {
             ),
             const Spacer(),
             const Text(
-              "Cotinue with Facebook",
+              "Continue with Facebook",
               style: TextStyle(
                 color: Colors.black,
               ),
@@ -261,7 +261,7 @@ class LoginScreen extends StatelessWidget {
             ),
             const Spacer(),
             const Text(
-              "Cotinue with Google",
+              "Continue with Google",
               style: TextStyle(
                 color: Colors.black,
               ),
